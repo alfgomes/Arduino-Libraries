@@ -1,0 +1,2 @@
+#Class Constructor
+AFG_WifiMulti	KEYWORD1

@@ -1,0 +1,13 @@
+#Class Constructor
+AFG_StringBuilder	KEYWORD1
+
+#Class Methods
+add			KEYWORD2
+insert			KEYWORD2
+replace			KEYWORD2
+remove			KEYWORD2
+clear			KEYWORD2
+toString		KEYWORD2
+print			KEYWORD2
+printLines		KEYWORD2
+linesCount		KEYWORD2

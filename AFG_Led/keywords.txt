@@ -1,0 +1,9 @@
+#Class Constructor
+AFG_Led	KEYWORD1
+
+#Class Methods
+turnOn			KEYWORD2
+turnOff			KEYWORD2
+turnOn_Wait		KEYWORD2
+turnOff_Wait		KEYWORD2
+blink			KEYWORD2
